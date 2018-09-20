@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme">
+    <sys_ui_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <css>/* Header Colors */&#13;
+/* Search text color */ &#13;
+$search-text-color: #eee&#13;
+/* Topbar background color*/&#13;
+$navpage-header-bg: #385052&#13;
+/* Topbar text color */&#13;
+$navpage-header-color: #fff&#13;
+/* Bottom border color on topbar */ &#13;
+$navpage-header-divider-color: #82B5A1&#13;
+&#13;
+/* Left nav and navigation toolbar background color */&#13;
+/* Navigator hover color */&#13;
+$nav-highlight-main: #68a1af&#13;
+/* Background for expanded navigation items */&#13;
+$subnav-background-color: #666&#13;
+/* Backgorund for navigator (left side only). */&#13;
+$navpage-nav-bg: #253e40&#13;
+/* Background for Favorites list, history list, and Connect list background. */&#13;
+$navpage-nav-bg-sub: #385052&#13;
+/* Text color in main navigation */&#13;
+$navpage-nav-color-sub: #eee&#13;
+/* Text color when hovering over items in main nav */&#13;
+$navpage-nav-mod-text-hover: #eee&#13;
+/* Divider color in Navigator */&#13;
+$nav-hr-color: #253e40&#13;
+&#13;
+/* Navigator tabs */&#13;
+/* Active nav item underneath search */&#13;
+$nav-highlight-bar-active: #8686bc&#13;
+/* Inactive nav items underneath search */&#13;
+$nav-highlight-bar-inactive: #4b4b7f&#13;
+/* Background for currently selected navigation item underneath search */&#13;
+$navpage-nav-selected-bg: #385052&#13;
+/* Color of icon for currently active nav item. */&#13;
+$navpage-nav-selected-color: #b1b1e4&#13;
+/* Color of icons for non inactive nav items.*/&#13;
+$navpage-nav-unselected-color: #8686bc&#13;
+&#13;
+/* Navigator Application text */&#13;
+/* Color for latest connect messages in right bar. */&#13;
+$connect-latest-message: #E54038&#13;
+/* Timestamp header backgrounds in History tab*/&#13;
+$nav-timeago-header-color: #333&#13;
+/* Core content text color */&#13;
+$navpage-nav-app-text: #eee&#13;
+/* Core content text color hover*/&#13;
+$navpage-nav-app-text-hover: #eee&#13;
+&#13;
+/* Color of outline for search */&#13;
+$navpage-nav-border: #8686bc&#13;
+/* Default button/icon colors */&#13;
+$navpage-button-color:  #fff&#13;
+/* Hover color for ^^^ */&#13;
+$navpage-button-color-hover: #8686bc</css>
+        <device>concourse</device>
+        <name>NewNOW</name>
+        <sys_class_name>sys_ui_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 10:45:40</sys_created_on>
+        <sys_id>fd6da71fdb246300786ff1351d9619fe</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>NewNOW</sys_name>
+        <sys_package display_value="Demo UX Themes" source="x_snc_demo_ux_them">28fb6bdbdb246300786ff1351d961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo UX Themes">28fb6bdbdb246300786ff1351d961967</sys_scope>
+        <sys_update_name>sys_ui_theme_fd6da71fdb246300786ff1351d9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 11:57:56</sys_updated_on>
+    </sys_ui_theme>
+</record_update>
